@@ -194,7 +194,8 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: rgb(0, 0, 0);
+
 }
 
 .d-bloc .panel button:hover,
@@ -653,7 +654,7 @@ h1{
 h3,
 h4,
 h5,
-h6,git add .black-background
+h6, 
 label,
 .btn,
 a {
@@ -688,7 +689,7 @@ a {
 }
 
 p {
-    font-size: small;
+    font-size: medium;
 }
 
 .tight-width-whitespace {
