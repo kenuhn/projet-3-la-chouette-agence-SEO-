@@ -11,7 +11,10 @@ button {
     transition: all .3s ease-in-out;
     outline: none!important;
 }
-
+.image-resize-mode{
+    width: 150px;
+    height: 150px;
+}
 a:hover {
     text-decoration: none;
     cursor: pointer;
