@@ -1,4 +1,4 @@
-#Projet 3: La choutte Agence 
+# Projet 3: La choutte Agence 
 
 Dans ce projet, il fallait Analyser l'état actuel du SEO du site internet 
 afin d'écrire un rapport d'optimasition pour améliorer le référencement naturel.
